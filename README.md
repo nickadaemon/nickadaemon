@@ -1,7 +1,7 @@
-## 👋 Hi there! xxx
+## 👋 Hi there!
 #
 
-I'm Bruce R.  I do web development work in San Jose, California.  Visit my site at [www.jsscribe.com](http://jsscribe.com)
+I'm Nick.  I do web development work in San Jose, California.  Visit my site at [www.test.com](http://test.com)
 
 #
 
