@@ -20,15 +20,5 @@ I'm Nick.  I do web development work in San Jose, California.  Visit my site at 
 [![x](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F%40jxscribe&style=flat-square&logo=X&label=(twitter)&labelColor=black&color=black
 )](https://x.com/@jxscribe) 
 
- 
 
-
- 
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/jsscribe)
-
-
-💻 🌐 💫 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
